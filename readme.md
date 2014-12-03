@@ -23,3 +23,9 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+### Development
+
+1. npm install
+2. bower install
+3. grunt copy
