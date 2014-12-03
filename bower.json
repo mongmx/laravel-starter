@@ -1,0 +1,17 @@
+{
+  "name": "laravel-starter",
+  "version": "0.0.0",
+  "description": "Laravel starter, based for create another project",
+  "homepage": "https://github.com/mongmx/laravel-starter",
+  "authors": [
+    "MongMX <mongmx@gmail.com>"
+  ],
+  "keywords": [
+    "laravel",
+    "starter"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "sb-admin-v2": "~0.1.0"
+  }
+}
